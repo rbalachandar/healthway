@@ -1,0 +1,1 @@
+mongod.exe --install --logpath D:\source\healthway-1.0.1\data\log\logs --logappend --bind_ip 127.0.0.1 --dbpath D:\source\healthway-1.0.1\data\ --storageEngine=mmapv1
